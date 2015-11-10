@@ -951,3 +951,15 @@ hr {
           left: 50%;
           bottom: 2px; } }
 
+	  
+div.pubgauche {
+	position: absolute;
+	margin-left: -600px;
+	left: 50%;
+}
+div.pubdroite {
+	
+	position: absolute;
+	margin-right: -600px;
+	right: 50%;
+}
